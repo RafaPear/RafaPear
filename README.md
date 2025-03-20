@@ -49,7 +49,3 @@
 </p>
 
 ---
-
-*Nota: Este é um template sugerido. Sente-te à vontade para personalizar conforme a tua preferência e adicionar mais informações que consideres relevantes.*
-
-Para mais dicas sobre como criar um `README` atrativo para o teu perfil, podes consultar este [artigo da Alura](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) e este [repositório com exemplos](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
