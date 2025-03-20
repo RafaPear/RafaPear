@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/followers/RafaPear?label=Seguir&style=social" alt="Seguidores no GitHub">
   </a>
   <a href="mailto:rafapear@outlook.pt">
-    <img src="https://img.shields.io/badge/Email-teu.email@example.com-red" alt="Email">
+    <img src="https://img.shields.io/badge/Email-rafapear@outlook.pt-red" alt="Email">
   </a>
 </p>
 
@@ -37,6 +37,8 @@
 - [**SSnakeV2.0**](https://github.com/RafaPear/SSnakeV2.0): 🐍 Jogo da cobra desenvolvido em Kotlin
 - [**LEIC-Projetos-Kotlin**](https://github.com/RafaPear/LEIC-Projetos-Kotlin): 📚 Repositório com projetos académicos em Kotlin
 - [**FUSION-JAZZ-RADIO**](https://github.com/RafaPear/FUSION-JAZZ-RADIO): 🎶 Aplicação web para streaming de rádio de jazz
+- [**LIC_grupo1**](https://github.com/RafaPear/LIC_grupo1): 🎰 Implementação de um jogo de roleta que combina hardware e software para simular uma máquina de roleta funcional.
+- [**AC_Trabalho1_Grupo1**](https://github.com/RafaPear/AC_Trabalho1_Grupo1): 🖥️ Projeto desenvolvido na disciplina de Arquitetura de Computadores, utilizando C e Assembly.
 
 ---
 
@@ -51,5 +53,3 @@
 *Nota: Este é um template sugerido. Sente-te à vontade para personalizar conforme a tua preferência e adicionar mais informações que consideres relevantes.*
 
 Para mais dicas sobre como criar um `README` atrativo para o teu perfil, podes consultar este [artigo da Alura](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) e este [repositório com exemplos](https://github.com/abhisheknaiidu/awesome-github-profile-readme).
-::contentReference[oaicite:0]{index=0}
- 
