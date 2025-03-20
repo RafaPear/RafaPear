@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/RafaPear/">
-    <img src="https://img.shields.io/github/followers/RafaPear?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/RafaPear?label=Seguir&style=social" alt="Seguidores no GitHub">
   </a>
-  <a href="mailto:teu.email@example.com">
+  <a href="mailto:rafapear@outlook.pt">
     <img src="https://img.shields.io/badge/Email-teu.email@example.com-red" alt="Email">
   </a>
 </p>
@@ -16,7 +16,7 @@
 - 🎓 Estudante no Instituto Superior de Engenharia de Lisboa (ISEL)
 - 🌱 Atualmente a aprofundar conhecimentos em desenvolvimento de software
 - 💬 Pergunta-me sobre: programação, tecnologia e música
-- 📫 Como contactar-me: [teu.email@example.com](mailto:teu.email@example.com)
+- 📫 Como contactar-me: [rafapear@outlook.pt](mailto:rafapear@outlook.pt)
 - ⚡ Curiosidade: Sou uma pessoa tranquila e gosto de jazz 🎷
 
 ---
@@ -27,9 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
