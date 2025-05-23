@@ -13,11 +13,13 @@
 
 ## Sobre mim
 
-- 🎓 Estudante no Instituto Superior de Engenharia de Lisboa (ISEL)
-- 🌱 Atualmente a aprofundar conhecimentos em desenvolvimento de software
-- 💬 Pergunta-me sobre: programação, tecnologia e música
-- 📫 Como contactar-me: [rafapear@outlook.pt](mailto:rafapear@outlook.pt)
-- ⚡ Curiosidade: Sou uma pessoa tranquila e gosto de jazz 🎷
+- 🎓 Estudante de Engenharia Informática e de Computadores no Instituto Superior de Engenharia de Lisboa (ISEL)
+- 🧠 Interesso-me por desenvolvimento de software, arquitetura de computadores e interação hardware/software
+- 🎶 Nas horas vagas gosto de fazer música eletrónica, tocar guitarra e ouvir jazz e metal
+- 🐾 Tenho dois gatos e um cão — e sim, são incríveis!
+- 🇯🇵 Um dos meus sonhos é visitar o Japão
+- 💬 Pergunta-me sobre: Kotlin, Python, VHDL, música e sistemas digitais
+- ⚡ Fun fact: relaxar sem fazer nada também é uma arte 💤
 
 ---
 
@@ -28,21 +30,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
-## Projetos em Destaque
+## Projetos em Destaque 🚀
 
-- [**SSnakeV2.0**](https://github.com/RafaPear/SSnakeV2.0): 🐍 Jogo da cobra desenvolvido em Kotlin
-- [**LEIC-Projetos-Kotlin**](https://github.com/RafaPear/LEIC-Projetos-Kotlin): 📚 Repositório com projetos académicos em Kotlin
-- [**FUSION-JAZZ-RADIO**](https://github.com/RafaPear/FUSION-JAZZ-RADIO): 🎶 Aplicação web para streaming de rádio de jazz
-- [**LIC_grupo1**](https://github.com/RafaPear/LIC_grupo1): 🎰 Implementação de um jogo de roleta que combina hardware e software para simular uma máquina de roleta funcional.
-- [**AC_Trabalho1_Grupo1**](https://github.com/RafaPear/AC_Trabalho1_Grupo1): 🖥️ Projeto desenvolvido na disciplina de Arquitetura de Computadores, utilizando C e Assembly.
+- [**SSnakeV2.0**](https://github.com/RafaPear/SSnakeV2.0): 🐍 Um clássico jogo da cobra em Kotlin com melhorias visuais e lógicas
+- [**LEIC-Projetos-Kotlin**](https://github.com/RafaPear/LEIC-Projetos-Kotlin): 📚 Coleção de projetos académicos escritos em Kotlin
+- [**FUSION-JAZZ-RADIO**](https://github.com/RafaPear/FUSION-JAZZ-RADIO): 🎷 Web app para streaming de jazz, inspirado nas minhas paixões musicais
+- [**LIC_grupo1**](https://github.com/RafaPear/LIC_grupo1): 🎰 Um sistema completo de roleta digital, combinando hardware (VHDL) com software (Kotlin)
+- [**AC_Trabalho1_Grupo1**](https://github.com/RafaPear/AC_Trabalho1_Grupo1): 🖥️ Simulação de um processador de 8 bits usando C e Assembly
+- [**CLILib**](https://github.com/RafaPear/CLILib): 🛠️ Framework modular em Kotlin para construir aplicações de linha de comandos poderosas
 
 ---
 
-## Estatísticas do GitHub
+## Outros Interesses 🎧
+
+- 🎸 Tocar guitarra elétrica e explorar novos sons
+- 🐾 Cuidar dos meus animais de estimação
+- 📚 Ler sobre culturas orientais e história japonesa
+- 🎮 Jogar videojogos, especialmente RPGs e jogos indie
+- 📷 Fotografia urbana e natureza
+
+---
+
+## Estatísticas do GitHub 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
