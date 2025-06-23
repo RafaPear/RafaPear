@@ -1,4 +1,5 @@
 <h1 align="center">Olá! Eu sou o Rafael Pereira 👋</h1>
+<p align="center">Bem-vindo ao meu espaço no GitHub!</p>
 
 <p align="center">
   <a href="https://github.com/RafaPear/">
@@ -12,13 +13,12 @@
 ---
 
 ## Sobre mim
-
-- 🎓 Estudante de Engenharia Informática e de Computadores no Instituto Superior de Engenharia de Lisboa (ISEL)
-- 🧠 Interesso-me por desenvolvimento de software, arquitetura de computadores e interação hardware/software
-- 🎶 Nas horas vagas gosto de fazer música eletrónica, tocar guitarra e ouvir jazz e metal
-- 🐾 Tenho dois gatos e um cão — e sim, são incríveis!
-- 🇯🇵 Um dos meus sonhos é visitar o Japão
-- 💬 Pergunta-me sobre: Kotlin, Python, VHDL, música e sistemas digitais
+- 🎓 Estudante de Engenharia Informática e de Computadores no Instituto Superior de Engenharia de Lisboa (ISEL).
+- 💡 Apaixonado por desenvolvimento de software e sistemas digitais.
+- 🎶 Produzo música eletrónica e toco guitarra nas horas vagas.
+- 🐾 Tenho dois gatos e um cão.
+- 🇯🇵 Sonho em visitar o Japão.
+- 💬 Pergunta-me sobre: Kotlin, Python, VHDL, música e sistemas digitais.
 - ⚡ Fun fact: relaxar sem fazer nada também é uma arte 💤
 
 ---
@@ -56,6 +56,13 @@
 
 ---
 
+## Onde me encontrar
+
+- <a href="mailto:rafapear@outlook.pt">Email</a>
+- <a href="https://github.com/RafaPear">GitHub</a>
+
+---
+
 ## Estatísticas do GitHub 📊
 
 <p align="left">
@@ -63,3 +70,7 @@
 </p>
 
 ---
+## Como contribuir
+
+Se encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
