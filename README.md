@@ -56,21 +56,8 @@
 
 ---
 
-## Onde me encontrar
-
-- <a href="mailto:rafapear@outlook.pt">Email</a>
-- <a href="https://github.com/RafaPear">GitHub</a>
-
----
-
 ## Estatísticas do GitHub 📊
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub">
 </p>
-
----
-## Como contribuir
-
-Se encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
