@@ -1,63 +1,101 @@
-<h1 align="center">Olá! Eu sou o Rafael Pereira 👋</h1>
-<p align="center">Bem-vindo ao meu espaço no GitHub!</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Rafael%20Pereira&fontSize=40&fontColor=ffffff" alt="cover">
+</p>
+
+---
+
+## 🎓 About Me
+
+🎓 Computer Engineering student at Instituto Superior de Engenharia de Lisboa (ISEL).
+
+🧠 Passionate about software development, computer architecture, and hardware/software interaction.
+
+🎶 I produce electronic music and play guitar, ranging from metal to jazz.
+
+🐾 Companion of two cats and a dog – my ultimate debugging assistants.
+
+💬 Interested in: **Kotlin**, **Python**, **VHDL**, **CLI design**, **digital systems**, **music**.
+
+---
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <a href="https://github.com/RafaPear/">
-    <img src="https://img.shields.io/github/followers/RafaPear?label=Seguir&style=social" alt="Seguidores no GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+</p>
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project                                                                               | Description                                                           | Technologies |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
+| 🐍 [SSnakeV2.0](https://github.com/RafaPear/SSnakeV2.0)                               | Classic Snake game reimagined in Kotlin with improved academic GUI.   | Kotlin       |
+| 🔢 [MGC-MaxGoldbachConjecture](https://github.com/RafaPear/MGC-MaxGoldbachConjecture) | Prime number explorer and Goldbach Conjecture checker with filtering. | Kotlin       |
+| 🛠️ [CLILib](https://github.com/RafaPear/CLILib)                                      | Modular CLI framework supporting extensible commands and scripting.   | Kotlin       |
+
+---
+
+## 📁 Repository Structure
+
+I organize my repositories into clear categories:
+
+* `LEIC-` or `AC_` → Academic projects from specific courses
+* `CLILib`, `SSnake`, etc. → Personal projects focusing on CLI, games, and interfaces
+* Clean folder structures with internal READMEs and practical examples
+
+---
+
+## 🔬 Technical Project Experience
+
+* 🧮 Implementation of efficient mathematical algorithms
+* 🎰 Complex digital systems using FSMs with keyboard, LCD, and circular buffers
+* 📡 Hardware/software integration with focus on responsiveness and robustness
+
+---
+
+## 📚 Documentation Highlights
+
+* [CLILib Wiki](https://github.com/RafaPear/CLILib/wiki): guide to building modular CLI frameworks
+
+---
+
+## 🎧 Other Interests
+
+🎸 Electric guitar – from distortion to jazz improvisation
+
+🐾 Caring for my pets
+
+🧩 Solving logic problems and exploring quirky algorithms
+
+🖥️ Developing simple yet functional interfaces for embedded systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPear&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaPear&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPear&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate!
+
+If you found something interesting or have an idea to propose, I'm always open to collaborations, suggestions or a good chat. Just open an issue or send me a message ✉️
+
+<p align="center">
+  <a href="https://github.com/RafaPear">
+    <img src="https://img.shields.io/badge/GitHub-RafaPear-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="mailto:rafapear@outlook.pt">
-    <img src="https://img.shields.io/badge/Email-rafapear@outlook.pt-red" alt="Email">
+    <img src="https://img.shields.io/badge/Email-rafapear@outlook.pt-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## Sobre mim
-- 🎓 Estudante de Engenharia Informática e de Computadores no Instituto Superior de Engenharia de Lisboa (ISEL).
-- 💡 Apaixonado por desenvolvimento de software e sistemas digitais.
-- 🎶 Produzo música eletrónica e toco guitarra nas horas vagas.
-- 🐾 Tenho dois gatos e um cão.
-- 🇯🇵 Sonho em visitar o Japão.
-- 💬 Pergunta-me sobre: Kotlin, Python, VHDL, música e sistemas digitais.
-- ⚡ Fun fact: relaxar sem fazer nada também é uma arte 💤
-
----
-
-## Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-## Projetos em Destaque 🚀
-
-- [**SSnakeV2.0**](https://github.com/RafaPear/SSnakeV2.0): 🐍 Um clássico jogo da cobra em Kotlin com melhorias visuais e lógicas
-- [**LEIC-Projetos-Kotlin**](https://github.com/RafaPear/LEIC-Projetos-Kotlin): 📚 Coleção de projetos académicos escritos em Kotlin
-- [**FUSION-JAZZ-RADIO**](https://github.com/RafaPear/FUSION-JAZZ-RADIO): 🎷 Web app para streaming de jazz, inspirado nas minhas paixões musicais
-- [**LIC_grupo1**](https://github.com/RafaPear/LIC_grupo1): 🎰 Um sistema completo de roleta digital, combinando hardware (VHDL) com software (Kotlin)
-- [**AC_Trabalho1_Grupo1**](https://github.com/RafaPear/AC_Trabalho1_Grupo1): 🖥️ Simulação de um processador de 8 bits usando C e Assembly
-- [**CLILib**](https://github.com/RafaPear/CLILib): 🛠️ Framework modular em Kotlin para construir aplicações de linha de comandos poderosas
-
----
-
-## Outros Interesses 🎧
-
-- 🎸 Tocar guitarra elétrica e explorar novos sons
-- 🐾 Cuidar dos meus animais de estimação
-- 📚 Ler sobre culturas orientais e história japonesa
-- 🎮 Jogar videojogos, especialmente RPGs e jogos indie
-- 📷 Fotografia urbana e natureza
-
----
-
-## Estatísticas do GitHub 📊
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub">
 </p>
