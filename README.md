@@ -4,77 +4,56 @@
 
 ---
 
-## 🎓 About Me
+## 👋 Hi there!
 
-🎓 Computer Engineering student at Instituto Superior de Engenharia de Lisboa (ISEL).
+I'm **Rafael Pereira**, a **Computer Engineering student** at **ISEL**.  
+I'm passionate about **software development**, **computer architecture**, and the interaction between **hardware and software**.
 
-🧠 Passionate about software development, computer architecture, and hardware/software interaction.
+---
 
-🎶 I produce electronic music and play guitar, ranging from metal to jazz.
+## 🚀 Featured Projects
 
-🐾 Companion of two cats and a dog – my ultimate debugging assistants.
+### 🛠️ [CLILib](https://github.com/RafaPear/CLILib)  
+A **modular and extensible Kotlin framework** for building **powerful command-line applications**, supporting customizable commands and scripting.  
+💡 Perfect for creating **robust and reusable CLI interfaces**.  
 
-💬 Interested in: **Kotlin**, **Python**, **VHDL**, **CLI design**, **digital systems**, **music**.
+**Tech stack:** Kotlin, Gradle, Maven Publish, GitHub Actions  
+
+---
+
+### 🔤 [KLL](https://github.com/RafaPear/KLL)  
+**Kotlin Lexer Library (KLL)** – a simple and intuitive library for **tokenizing files**, making compiler and parser development easier.  
+
+**Tech stack:** Kotlin, Gradle  
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
+  <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
+  
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  
+  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
+  
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
+  
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
----
 
-## 🚀 Highlighted Projects
-
-| Project                                                                               | Description                                                           | Technologies |
-| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------ |
-| 🐍 [SSnakeV2.0](https://github.com/RafaPear/SSnakeV2.0)                               | Classic Snake game reimagined in Kotlin with improved academic GUI.   | Kotlin       |
-| 🔢 [MGC-MaxGoldbachConjecture](https://github.com/RafaPear/MGC-MaxGoldbachConjecture) | Prime number explorer and Goldbach Conjecture checker with filtering. | Kotlin       |
-| 🛠️ [CLILib](https://github.com/RafaPear/CLILib)                                      | Modular CLI framework supporting extensible commands and scripting.   | Kotlin       |
-
----
-
-## 📁 Repository Structure
-
-I organize my repositories into clear categories:
-
-* `LEIC-` or `AC_` → Academic projects from specific courses
-* `CLILib`, `SSnake`, etc. → Personal projects focusing on CLI, games, and interfaces
-* Clean folder structures with internal READMEs and practical examples
-
----
-
-## 🔬 Technical Project Experience
-
-* 🧮 Implementation of efficient mathematical algorithms
-* 🎰 Complex digital systems using FSMs with keyboard, LCD, and circular buffers
-* 📡 Hardware/software integration with focus on responsiveness and robustness
-
----
-
-## 📚 Documentation Highlights
-
-* [CLILib Wiki](https://github.com/RafaPear/CLILib/wiki): guide to building modular CLI frameworks
-
----
-
-## 🎧 Other Interests
-
-🎸 Electric guitar – from distortion to jazz improvisation
-
-🐾 Caring for my pets
-
-🧩 Solving logic problems and exploring quirky algorithms
-
-🖥️ Developing simple yet functional interfaces for embedded systems
 
 ---
 
@@ -91,7 +70,7 @@ I organize my repositories into clear categories:
 
 ## 🤝 Let's Collaborate!
 
-If you found something interesting or have an idea to propose, I'm always open to collaborations, suggestions or a good chat. Just open an issue or send me a message ✉️
+If you're interested in **compilers, CLI frameworks, or digital systems**, I’m always open to collaborations and new ideas.  
 
 <p align="center">
   <a href="https://github.com/RafaPear">
