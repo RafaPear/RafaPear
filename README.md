@@ -20,7 +20,6 @@ Focused on:
 A modular and reusable **Kotlin framework** for building CLI applications with structured commands.
 
 <p>
-  <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat" />
   <img src="https://img.shields.io/github/languages/top/RafaPear/CLILib?color=8A2BE2" />
 </p>
 
@@ -45,7 +44,6 @@ A **terminal-based text editor** built in Kotlin.
 Inspired by classical UNIX editors.
 
 <p>
-  <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat" />
   <img src="https://img.shields.io/github/languages/top/RafaPear/TEdit?color=8A2BE2" />
 </p>
 
