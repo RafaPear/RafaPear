@@ -1,116 +1,104 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Rafael%20Pereira&fontSize=40&fontColor=ffffff" alt="cover">
-</p>
+# Rafael Vermelho Pereira
 
----
+**Computer Science and Engineering Student @ ISEL (4th semester)**  
+Lisbon, Portugal · 20 years old
 
-## 👋 Hey there!
+I am a Computer Science and Engineering student based in Lisbon, currently completing my degree at ISEL.  
+My main interests lie in understanding how software works from the ground up — from low-level programs and rendering pipelines to compilers and language tooling.
 
-I’m **Rafael Pereira**, a **Computer Engineering student** at **ISEL** (Lisbon, Portugal).  
-I enjoy crafting systems where **software meets hardware** — from digital logic and serial protocols to tooling, compilers, and real-time integration ⚙️💻  
+I enjoy working close to the machine, but I am not allergic to higher-level abstractions when they are well designed.  
+My goal right now is simple: learn as much as possible, improve my technical skills, and finish the degree properly (without cutting corners).
 
-Focused on:  
-🧠 Computer Architecture | 🧩 Digital Systems | 🛠 CLI Design | ✍️ Programming Languages | 📡 Hardware + Software Interaction
+## Background
 
----
+Before engineering, I followed a professional secondary education path at **EPI – Escola Profissional de Imagem**, where I studied **Music Production and Technologies (PTM)**.  
+During that time, I completed internships at:
 
-## 🚀 Featured Projects
+- **Namouche Studios** (Lisbon)
+- **Sound Station Studios** (Campo de Ourique)
 
-### 🛠️ [CLILib](https://github.com/RafaPear/CLILib) — *(Work in Progress)*
-A modular and reusable **Kotlin framework** for building CLI applications with structured commands.
+That background gave me a strong technical mindset outside of software: signal flow, tooling, discipline, and attention to detail.  
+I still actively produce electronic music and play **guitar, bass, and keyboards** — which probably explains my interest in systems, pipelines, and things that need to *actually work*.
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/RafaPear/CLILib?color=8A2BE2" />
-</p>
+## Technical Profile
 
-**Tech Stack:** Kotlin · Gradle · GitHub Actions  
+I see myself as a mix of:
+- systems engineer  
+- compiler / language tooling enthusiast  
+- generalist with strong low-level interests  
 
----
+Things I genuinely enjoy:
+- compilers and language internals  
+- low-level programming  
+- rendering and graphics pipelines  
 
-### 🧩 [KtFlag](https://github.com/RafaPear/KtFlag)
-A standalone, lightweight **CLI flag parsing** library.
+Things I actively avoid:
+- frontend-heavy work  
 
-<p>
-  <img src="https://img.shields.io/badge/status-stable-success?style=flat" />
-  <img src="https://img.shields.io/github/languages/top/RafaPear/KtFlag?color=8A2BE2" />
-</p>
+## Focus Areas
 
-**Tech Stack:** Kotlin · Gradle  
+- **Systems Programming:** C, low-level design, understanding execution models  
+- **Language Engineering:** lexers, compilers, tooling, APIs that don’t lie  
+- **Rendering & Graphics:** pipelines, transformations, implementation from scratch  
+- **Software Design:** CLI tools, build systems, maintainable architectures  
 
----
+## Featured Projects
 
-### ✍️ [TEdit](https://github.com/RafaPear/TEdit) — *(Work in Progress)*
-A **terminal-based text editor** built in Kotlin.  
-Inspired by classical UNIX editors.
+### Independent
 
-<p>
-  <img src="https://img.shields.io/github/languages/top/RafaPear/TEdit?color=8A2BE2" />
-</p>
-
-**Tech Stack:** Kotlin · Gradle  
-
----
-
-### 🔤 [KLL](https://github.com/RafaPear/KLL)
-A Kotlin library for **lexical analysis** (tokenizing workflows).
-
-<p>
-  <img src="https://img.shields.io/github/languages/top/RafaPear/KLL?color=8A2BE2" />
-</p>
-
----
-
-## 🧪 Academic Projects
-
-| Project | Description | Stack |
+| Project | Description | Tech |
 |--------|-------------|------|
-| **FPGA Roulette Game** | Hardware machine + Kotlin interface, UART comms, FSM controller | VHDL · Kotlin |
-| **SSnake 2.0** | Improved logic & UI for the classic Snake game | Kotlin |
-| **Goldbach Tools** | Prime exploration & math processing | Kotlin |
-| **Memory & String Ops** | Optimised C + Assembly exercises | C · ASM |
+| **[KPB](https://github.com/RafaPear/KPB)** | Kotlin build automation tool with explicit configuration and minimal magic | Kotlin, Gradle |
+| **[KtFlag](https://github.com/RafaPear/KtFlag)** | Zero-dependency CLI argument parser with a minimal, predictable API | Kotlin |
+| **[KLL](https://github.com/RafaPear/KLL)** | Lightweight lexer/tokenization library for language tooling | Kotlin |
+| **[C3D](https://github.com/RafaPear/C3D)** | 3D graphics pipeline implemented from scratch | C |
 
-> These projects highlight hardware/software co-design and low-level problem solving 🎯  
+### Academic
 
----
+| Project | Course | Semester | Focus | Tech |
+|--------|--------|----------|-------|------|
+| **[SSnake 2.0](https://github.com/RafaPear/SSnake)** | Programming (PG) | 1 | Event-driven architecture, state management | Kotlin |
+| **[IPW Assignment](https://github.com/RafaPear/IPW-2425-Assignment)** | Intro to Web Programming (IPW) | 3 | Full-stack web application | JavaScript, HTML, CSS |
+| **[TDS Assignment](https://github.com/RafaPear/TDS-2425-Assignment)** | Software Dev Techniques (TDS) | 3 | Design patterns, testing, architecture | Kotlin |
 
-## 🛠️ Technologies & Tools
+> The **TDS project** is the academic work I am most proud of, as it best represents how I think about structure, design, and long-term maintainability.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+## Technical Skills
+
+**Languages & Markup:**  
+Kotlin · C · Java · Python · JavaScript · HTML · CSS · VHDL · x86 Assembly  
+
+**Tools & Platforms:**  
+Git · Gradle · Linux  
+
+**Core Interests:**  
+Compilers · Low-level systems · Rendering · Software architecture
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" title="Linux" />
 </p>
 
----
+## Looking Ahead
 
-## 📊 GitHub Stats
+In the next few years, I am open to:
+- internships  
+- full-time work  
+- a master’s degree  
+- or a combination of all three  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaPear&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaPear&theme=github-dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaPear&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPear&layout=compact&theme=github_dark" />
-</p>
+I am particularly interested in environments where I can keep learning, work close to the fundamentals, and contribute to meaningful technical systems.
 
----
+## Contact
 
-## 🎧 Fun Bits
-
-- 🎸 Electronic music producer (guitar & keyboard jammer)
-- 🐾 Cats and a dog as debugging assistants
-- 🧩 Addicted to puzzle-solving & algorithm challenges
-
----
-
-## 🤝 Connect with me!
-
-Always open to exploring ideas around **compilers**, **digital logic**, and **CLI tooling** 🤓  
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/RafaPear">
     <img src="https://img.shields.io/badge/GitHub-RafaPear-8A2BE2?style=flat&logo=github&logoColor=white" />
   </a>
