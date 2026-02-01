@@ -19,6 +19,8 @@ During that time, I interned at:
 I still actively produce electronic music and play **guitar, bass, and keyboards**.  
 This background strongly influenced how I think about systems, tooling, and structured workflows.
 
+You can take a look at my SoundCloud profile [here](https://on.soundcloud.com/WzQ0XeIf0Gwzblr4Zu)
+
 ## Technical Profile
 
 I see myself as a mix of:
