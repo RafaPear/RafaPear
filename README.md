@@ -58,7 +58,7 @@ Things I avoid:
 
 | Project | Course | Semester | Focus | Tech |
 |--------|--------|----------|-------|------|
-| **[SSnake 2.0](https://github.com/RafaPear/SSnake)** | Programming (PG) | 1 | Event-driven architecture, state management | Kotlin |
+| **[SSnake 2.0](https://github.com/RafaPear/SSnake2.0)** | Programming (PG) | 1 | Event-driven architecture, state management | Kotlin |
 | **[IPW Assignment](https://github.com/RafaPear/IPW-2425-Assignment)** | Intro to Web Programming (IPW) | 3 | Full-stack web application | JavaScript, HTML, CSS |
 | **[TDS Assignment](https://github.com/RafaPear/TDS-2425-Assignment)** | Software Dev Techniques (TDS) | 3 | Software architecture, testing, design patterns | Kotlin |
 
