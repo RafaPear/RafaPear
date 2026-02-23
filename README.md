@@ -49,10 +49,8 @@ Things I avoid:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **[KPB — Kotlin Project Builder](https://github.com/RafaPear/KPB)** | Kotlin + Gradle project generator for creating structured Kotlin projects | Kotlin, Gradle |
-| **[KtFlag](https://github.com/RafaPear/KtFlag)** | Simple, zero-dependency CLI argument parser | Kotlin |
-| **[KLL — Kotlin Lexer Library](https://github.com/RafaPear/KLL)** | Lightweight lexer library for tokenizing source code | Kotlin |
 | **[C3D](https://github.com/RafaPear/C3D)** | 3D rendering pipeline implemented from scratch | C |
+| **[Dynamic-Discord-RPC-macOS](https://github.com/RafaPear/Dynamic-Discord-RPC-macOS)** | Customizable Discord RPC server for macos | python |
 
 ### Academic
 
