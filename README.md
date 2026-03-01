@@ -45,6 +45,12 @@ Things I avoid:
 
 ## Featured Projects
 
+### Usefull Content
+
+| Project | Description |
+|---------|-------------|
+| **[ISEL-CSE-Notes](https://github.com/RafaPear/ISEL-CSE-Notes)** | Usefull Notes for the LEIC/CSE course at ISEL and other CSE students |
+
 ### Independent
 
 | Project | Description | Tech |
