@@ -1,103 +1,98 @@
 # Rafael Vermelho Pereira
 
-**Computer Science and Engineering Student @ ISEL (4th semester)**  
-Lisbon, Portugal · 20 years old
+**Computer Science and Engineering Student @ ISEL**
+Lisbon, Portugal
 
-I am a Computer Science and Engineering student based in Lisbon, currently studying at ISEL.  
-I am mainly interested in understanding how software works from the ground up, especially low-level systems, compilers, and rendering pipelines.
+I'm a Computer Science and Engineering student at ISEL with a strong interest in systems programming, compiler design, virtual machines and developer tooling. I enjoy understanding how software works beneath the abstraction layers and building tools from scratch.
 
-My current goal is to: learn more, improve my technical skills, and finish the degree properly.
+Currently, I'm focused on low-level software development, JVM internals, language tooling and graphics programming.
 
 ## Background
 
-Before engineering, I completed a professional secondary education path at **EPI – Escola Profissional de Imagem**, where I studied **Music Production and Technologies (PTM)**.
+Before studying engineering, I completed a professional secondary education course in **Music Production and Technologies (PTM)** at **EPI – Escola Profissional de Imagem**.
 
-During that time, I interned at:
-- **Namouche Studios** (Lisbon)
-- **Sound Station Studios** (Campo de Ourique)
+During that time I interned at:
 
-I still actively produce electronic music and play **guitar, bass, and keyboards**.  
-This background strongly influenced how I think about systems, tooling, and structured workflows.
+* **Namouche Studios**
+* **Sound Station Studios**
 
-You can take a look at my SoundCloud profile [here](https://on.soundcloud.com/WzQ0XeIf0Gwzblr4Zu)
+Outside software, I still produce electronic music and play **guitar, bass and keyboards**.
 
-## Technical Profile
+SoundCloud: https://on.soundcloud.com/WzQ0XeIf0Gwzblr4Zu
 
-I see myself as a mix of:
-- systems-oriented engineer  
-- compiler / language tooling enthusiast  
-- generalist with strong low-level interests  
+---
 
-Things I enjoy:
-- compilers and lexers  
-- low-level programming  
-- rendering and graphics pipelines  
+## Areas of Interest
 
-Things I avoid:
-- frontend-heavy work  
+* Systems Programming
+* JVM Internals
+* Compiler & Language Design
+* Bytecode Generation
+* Rendering Pipelines
+* Software Architecture
+* Developer Tooling
 
-## Focus Areas
-
-- **Systems Programming:** C, low-level design
-- **Language Engineering:** lexers, compilers, tooling
-- **Rendering & Graphics:** pipelines implemented from scratch
-- **Software Design:** CLI tools, build systems
+---
 
 ## Featured Projects
 
-### Usefull Content
+### Independent Projects
 
-| Project | Description |
-|---------|-------------|
-| **[ISEL-CSE-Notes](https://github.com/RafaPear/ISEL-CSE-Notes)** | Usefull Notes for the LEIC/CSE course at ISEL and other CSE students |
+| Project                                                                                | Description                                                                                                       | Tech   |
+| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------ |
+| **[KlassFile](https://github.com/RafaPear/KlassFile)**                                 | Idiomatic Kotlin DSL for generating JVM bytecode using the Java Class-File API with automatic stack verification. | Kotlin |
+| **[C3D](https://github.com/RafaPear/C3D)**                                             | Software 3D rendering pipeline implemented completely from scratch.                                               | C      |
+| **[Dynamic Discord RPC macOS](https://github.com/RafaPear/Dynamic-Discord-RPC-macOS)** | Customizable Discord Rich Presence server for macOS.                                                              | Python |
 
-### Independent
+### Academic Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[C3D](https://github.com/RafaPear/C3D)** | 3D rendering pipeline implemented from scratch | C |
-| **[Dynamic-Discord-RPC-macOS](https://github.com/RafaPear/Dynamic-Discord-RPC-macOS)** | Customizable Discord RPC server for macos | python |
+| Project                                                               | Description                                                      | Tech       |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------- |
+| **[TDS Assignment](https://github.com/RafaPear/TDS-2425-Assignment)** | Software architecture, testing and design patterns.              | Kotlin     |
+| **[SSnake 2.0](https://github.com/RafaPear/SSnakeV2.0)**              | Event-driven Snake game developed during the Programming course. | Kotlin     |
+| **[IPW Assignment](https://github.com/RafaPear/IPW-2425-Assignment)** | Full-stack web application.                                      | JavaScript |
 
-### Academic
+### Study Material
 
-| Project | Course | Semester | Focus | Tech |
-|--------|--------|----------|-------|------|
-| **[SSnake 2.0](https://github.com/RafaPear/SSnakeV2.0)** | Programming (PG) | 1 | Event-driven architecture, state management | Kotlin |
-| **[IPW Assignment](https://github.com/RafaPear/IPW-2425-Assignment)** | Intro to Web Programming (IPW) | 3 | Full-stack web application | JavaScript, HTML, CSS |
-| **[TDS Assignment](https://github.com/RafaPear/TDS-2425-Assignment)** | Software Dev Techniques (TDS) | 3 | Software architecture, testing, design patterns | Kotlin |
+| Project                                                          | Description                                                |
+| ---------------------------------------------------------------- | ---------------------------------------------------------- |
+| **[ISEL-CSE-Notes](https://github.com/RafaPear/ISEL-CSE-Notes)** | Notes and resources for Computer Science students at ISEL. |
 
-> **TDS** is the academic project I am most proud of, as it best reflects how I approach structure and maintainability.
+---
 
 ## Technical Skills
 
-**Languages & Markup:**  
-Kotlin · C · Java · Python · JavaScript · HTML · CSS · VHDL · x86 Assembly  
+### Languages
 
-**Tools & Platforms:**  
-Git · Gradle · Linux  
+Kotlin • C • D • Python • JavaScript
 
-**Core Interests:**  
-Compilers · Low-level systems · Rendering · Software architecture
+### Technologies
+
+JVM • Gradle • Git • Make
+
+### Interests
+
+Compilers • Bytecode • Virtual Machines • Rendering • Software Architecture • Developer Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
+  <img src="https://dlang.org/images/dlogo.png" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
 </p>
+
+---
 
 ## Contact
 
 <p align="left">
   <a href="https://github.com/RafaPear">
-    <img src="https://img.shields.io/badge/GitHub-RafaPear-8A2BE2?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-RafaPear-8A2BE2?style=flat&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:rafapear@outlook.pt">
-    <img src="https://img.shields.io/badge/Email-rafapear@outlook.pt-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-rafapear@outlook.pt-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
