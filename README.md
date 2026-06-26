@@ -91,10 +91,6 @@ Compilers · Low-level systems · Rendering · Software architecture
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
 </p>
 
-## Looking Ahead
-
-I am interested in internships, work opportunities, a master’s degree — or a combination of all three.
-
 ## Contact
 
 <p align="left">
