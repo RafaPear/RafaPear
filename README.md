@@ -6,7 +6,7 @@ Lisbon, Portugal · 20 years old
 I am a Computer Science and Engineering student based in Lisbon, currently studying at ISEL.  
 I am mainly interested in understanding how software works from the ground up, especially low-level systems, compilers, and rendering pipelines.
 
-My current goal is straightforward: learn more, improve my technical skills, and finish the degree properly.
+My current goal is to: learn more, improve my technical skills, and finish the degree properly.
 
 ## Background
 
